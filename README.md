@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## Welcome to my profile Homepage
+## 🌱 I’m currently learning how to code in C++ with CLion
 <!--
 **TV46/TV46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
